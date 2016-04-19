@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Context
 permalink: /about/
 ---
-
-# Context
 
 Scholarship is changing. New kinds of research techniques are being made possible by an ever more enveloping digital research infrastructure. But working with software and data isn’t always easy. There’s a lot of it, and its utility is highly variable.
 
