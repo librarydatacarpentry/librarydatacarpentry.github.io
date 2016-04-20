@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Getting Started
-permalink: /gettingsstarted/
+permalink: /gettingstarted/
 ---
-Places are limited, so please discuss your interest with colleagues before registering. Registrations can be sent to 
+Places are limited, so please discuss your interest with colleagues before registering. A restricted number of nominations will be accepted from each institution. Registrations can be sent to [barbara{dot}parnaby{at}curtin{dot}edu{dot}au](mailto:barbara.parnaby@curtin.edu.au)
 
 # What to bring
 
