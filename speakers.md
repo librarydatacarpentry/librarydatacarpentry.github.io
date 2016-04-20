@@ -20,4 +20,5 @@ TBA
 ## Teaching assistants:
 
 Matthias Liffers Coordinator, Research Services Curtin 
+
 TBA
