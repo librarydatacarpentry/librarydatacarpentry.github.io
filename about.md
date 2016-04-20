@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Library data Carpentry is a three day workshop for self styled data librarians. It will be held at the University of Technology Sydney on July 12-14 2016. The event is being produced by the Libraries of the Australian Technology Network. 
+Library data Carpentry is a three day workshop for self styled data librarians or those in data-librarian-like roles. It will be held at the University of Technology Sydney on July 12-14 2016. The event is being produced by the Libraries of the Australian Technology Network. 
 
 # Methodology
 
