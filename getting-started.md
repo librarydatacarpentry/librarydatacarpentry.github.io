@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started
-permalink: /gettingstarted/
+permalink: /gettings-started/
 ---
 Places are limited, so please discuss your interest with colleagues before registering. Registrations can be sent to 
 
