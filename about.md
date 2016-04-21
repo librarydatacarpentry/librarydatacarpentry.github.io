@@ -19,3 +19,7 @@ Library data Carpentry emulates programs designed to familiarise Librarians with
 * Foster peer on peer learning
 * Develop computational thinking
 
+# Contact
+
+Please forward clarifications, queries and grievances to [barbara{dot}parnaby{at}curtin{dot}edu{dot}au](barbara.parnaby@curtin.edu.au) and [mal{dot}booth{at}uts{dot}edu{dot}au](mal.booth@uts.edu.au).
+
