@@ -3,7 +3,6 @@ layout: page
 title: Getting Started
 permalink: /gettingstarted/
 ---
-Places are limited to 35, so please discuss your interest with colleagues before registering. As a [LATN](https://www.atn.edu.au/) initiative, 14 of the 35 places have been reserved for LATN Libraries. Beyond that number, [CAUL](http://www.caul.edu.au/) Libraries will be allowed to nominate one person per Library (agreed by their University Librarian) on a first come, first served basis. Registrations can be sent to [barbara{dot}parnaby{at}curtin{dot}edu{dot}au](mailto:barbara.parnaby@curtin.edu.au)
 
 # What to bring
 
