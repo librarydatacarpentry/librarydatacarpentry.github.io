@@ -13,8 +13,10 @@ The UTS Campus is conveniently located within easy walking distance of Central S
 
 # Accommodation 
 
-Special rates can be arranged at the following hotels.
+Special rates can be arranged at the following hotels:
 
 * Mercure Sydney, 818 George St ($193 std room)
 * Novotel Sydney Central, 169 Thomas St ($199 std room)
 * Adina Apartment Hotel Sydney Central, 2 Lee St ($178 std room)
+
+Please [register](http://librarydatacarpentry.github.io/register/) prior to arranging accommodation.
