@@ -16,6 +16,7 @@ The UTS Campus is conveniently located within easy walking distance of Central S
 Accommodation arrangements are the responsibility of the attendee.
 
 Discount rates available for Monday 11th July 2016  – Thursday 14th July 2016 (when booked up till 30 days prior) at:
+
 ***
 
 **Novotel Sydney Central Hotel**     Phone: 02 9281 6888      Email: H8781@accor.com
