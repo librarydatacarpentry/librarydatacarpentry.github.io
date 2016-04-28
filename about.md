@@ -10,8 +10,6 @@ Library data Carpentry is a three day workshop for self styled data librarians o
 
 Library data Carpentry emulates programs designed to familiarise Librarians with digital scholarship [British Library Internal Digital Scholarship Training Programme](http://britishlibrary.typepad.co.uk/digital-scholarship/2014/10/british-library-digital-scholarship-training-programme-round-up-of-resources-you-can-use.html) 2012-, [Data Scientist Training for Librarians](http://altbibl.io/dst4l/) (DST4L) 2013-, Dr James Baker's [Library Carpentry](http://librarycarpentry.github.io/) UK 2015, AU Library Carpentry Belinda Weaver ResBaz Brisbane February 2016, 23 Things: Libraries for Research Data 2015-). Classes will demonstrate how data is located, retrieved, presented, and interpreted, with a focus on hard skills like software based techniques for data extraction, analysis, and visualization. Training will be elementary in an effort to balance the expertise of those attending.
 
-The need for data and software related training has prompted new training initiatives aimed at improving librarians’ familiarity with digital scholarship and its contingent infrastructure. These include the 
-
 # Objectives
 
 * Attendees will gain hands-on experience of data extraction, munging, analysis and visualisation.
