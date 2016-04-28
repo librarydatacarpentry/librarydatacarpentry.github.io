@@ -16,6 +16,7 @@ The UTS Campus is conveniently located within easy walking distance of Central S
 Accommodation arrangements are the responsibility of the attendee.
 
 Discount rates available for Monday 11th July 2016  – Thursday 14th July 2016 (when booked up till 30 days prior) at:
+***
 
 **Novotel Sydney Central Hotel**     Phone: 02 9281 6888      Email: H8781@accor.com
 
@@ -25,6 +26,8 @@ Discount rates available for Monday 11th July 2016  – Thursday 14th July 2016 
     Superior Balcony Rooms @ 10% off Rate of the Day  
     Buffet Breakfast @ $20.00 per person per day  
     Car parking @ $30.00 overnight (24 hour period)
+
+***
  
 **The Mercure Sydney**     Phone: 02 9217 6797            Email: h2073@accor.com
 
@@ -33,10 +36,13 @@ Discount rates available for Monday 11th July 2016  – Thursday 14th July 2016 
     Mon 11th & Tues 12th - $215 per night for a standard room including breakfast for 1  
     Wed 13th - $282 per night for a standard room including breakfast for 1
  
+***
+
 **Adina Apartment Hotels**       Phone: 02 8302 1000      Email: crownst@adinahotels.com.au
 
 * Please quote Booking code:  (code to be confirmed)  
-    5% discount available
+    
+  5% discount available
 
 
 Please [register](http://librarydatacarpentry.github.io/register/) prior to arranging accommodation.
