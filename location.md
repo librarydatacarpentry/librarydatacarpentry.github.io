@@ -41,9 +41,9 @@ Discount rates available for Monday 11th July 2016  – Thursday 14th July 2016 
 
 **Adina Apartment Hotels**       Phone: 02 8302 1000      Email: crownst@adinahotels.com.au
 
-* Please quote Booking code:  (code to be confirmed)  
+* Please quote booking code:  TH8613554 or link: [Adina Apartment Hotel Sydney, Crown Street](https://gc.synxis.com/rez.aspx?hotel=58452&Chain=14687&locale=en-US&promo=TH8613554&arrive=07/12/2016)
     
-  5% discount available
+  For 5% discount on best available rate
 
 
 Please [register](http://librarydatacarpentry.github.io/register/) prior to arranging accommodation.
