@@ -13,10 +13,6 @@ The Faculty of Engineering and IT is located at UTS UTS Building 11, 81 Broadway
 
 The UTS Campus is conveniently located within easy walking distance of Central Station and Railway Square. Click [here](http://maps.uts.edu.au/directions.cfm) for more information – including public transport options and maps.
 
-<dl>
-  <iframe src="https://www.google.com/maps/d/embed?mid=1-jCLPCHPbWc1cR4bG4S5RpPrWU0" width="640" height="480"></iframe>
-</dl>
-
 # Accommodation 
 
 Accommodation arrangements are the responsibility of the attendee.
