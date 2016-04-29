@@ -7,9 +7,15 @@ Library data Carpentry will be held on July 12-14 2016 in the University of Tech
 
 The Dr Chau Chak Wing builidng is located at UTS Building 8, 14-28 Ultimo Road, Ultimo, NSW 2007. 
 
+![alt text](https://github.com/librarydatacarpentry/librarydatacarpentry.github.io/blob/f505d0d5f16699fa56fc2c0d55674601086730ac/location/images/dccw-banner-03.jpg)
+
 The Faculty of Engineering and IT is located at UTS UTS Building 11, 81 Broadway, Broadway NSW 2007
 
 The UTS Campus is conveniently located within easy walking distance of Central Station and Railway Square. Click [here](http://maps.uts.edu.au/directions.cfm) for more information – including public transport options and maps.
+
+<dl>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1-jCLPCHPbWc1cR4bG4S5RpPrWU0" width="640" height="480"></iframe>
+</dl>
 
 # Accommodation 
 
