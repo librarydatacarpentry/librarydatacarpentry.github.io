@@ -12,7 +12,7 @@ permalink: /speakers/
 eReseach Analyst, Intersect 
 
 ![alt text](https://raw.githubusercontent.com/librarydatacarpentry/librarydatacarpentry.github.io/master/speakers/images/1462783294_circle.png) [![alt text][1]][3] [Alistair Walsh](https://au.linkedin.com/in/alistair-walsh-7317424b) 
-Research Community Coordinator: Research Platforms Training Services Univesrity of Melbourne
+Research Community Coordinator: Research Platforms Training Services University of Melbourne
 
 ![alt text](https://raw.githubusercontent.com/librarydatacarpentry/librarydatacarpentry.github.io/master/speakers/images/1462783294_circle.png)  [Kate Sweetapple](http://cargocollective.com/katesweetapple) 
 [Associate Head of Design & Senior Lecturer in Visual Communication](http://www.uts.edu.au/staff/kate.sweetapple), UTS
