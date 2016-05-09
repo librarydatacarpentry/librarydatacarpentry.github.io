@@ -3,7 +3,6 @@ layout: page
 title: Speakers
 permalink: /speakers/
 ---
-[Simon Buckingham-Shum](http://www.uts.edu.au/staff/simon.buckinghamshum)
 [Simon Buckingham Shum](http://simon.buckinghamshum.net/) is Professor of Learning Informatics at the University of Technology Sydney, which he joined in August 2014 to direct the new [Connected Intelligence Centre](http://utscic.edu.au/). Prior to that he was at The Open University’s Knowledge Media Institute 1995-2014. He brings a Human-Centred Informatics (HCI) approach to his work, with a background in Psychology (BSc, York), Ergonomics (MSc, London) and HCI (PhD, York) where he worked with Rank Xerox Cambridge EuroPARC on Design Rationale. He co-edited [Visualizing Argumentation](http://www.springer.com/gp/book/9781852336646) (2003) followed by [Knowledge Cartography](http://www.springer.com/gp/book/9781447164692) (2008, 2nd Edn. 2014), and with Al Selvin wrote [Constructing Knowledge Art](http://www.morganclaypool.com/doi/abs/10.2200/S00593ED1V01Y201408HCI023) (2015). He is active in the emerging field of Learning Analytics and is a co-founder of the [Society for Learning Analytics Research](http://www.solaresearch.org/), [Compendium Institute](http://compendiuminstitute.net/) and [Learning Emergence network](http://learningemergence.net/). 
 
 [Simon Knight](http://sjgknight.com/finding-knowledge/)
