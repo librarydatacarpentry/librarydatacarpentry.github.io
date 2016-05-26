@@ -18,7 +18,6 @@ The program is subject to change, but is anticipated to be composed of the follo
 | Time	| Activity | Host	| Location |
 | --- | --- | --- | --- |
 | 9-9:30am | Check in, hello and morning tea	|	| Dr Chau Chak Wing CB08.03.008 Catering Space |
-
 | 9:30-10:30am | Keynote | Simon Buckingham-Shum | CB08.03.002 Oval Classroom |
 | 10:45-11:40am | Data Arena tours x 2 | Data Arena | Data Arena |
 | 12:30pm-1:30pm | Critical thinking with Data: Asking the right questions | Simon Knight | CB08.03.004 Seminar room |
