@@ -15,29 +15,142 @@ The program is subject to change, but is anticipated to be composed of the follo
 
 ### Day 1 (July 12th) 
 
-| Time	| Activity | Host	| Location |
-| --- | --- | --- | --- |
-| 9-9:30am | Check in, hello and morning tea	|	| Dr Chau Chak Wing CB08.03.008 Catering Space |
-| 9:30-10:30am | Keynote | Simon Buckingham-Shum | CB08.03.002 Oval Classroom |
-| 10:45-11:40am | Data Arena tours x 2 | Data Arena | Data Arena |
-| 12:30pm-1:30pm | Critical thinking with Data: Asking the right questions | Simon Knight | CB08.03.004 Seminar room |
-| 1:45pm-4:30pm | Cleaning and Exploring Data with Open Refine | Jared Berghold | CB08.03.002 Oval Classroom |
-| 4:45pm–5:00pm	| LRS tours | 	| LRS |
-| 5:30pm or 6pm start | Afterhours |	 	|  |
- 
-### Day 2 (July 13)
- 
-| Time	| Activity | Host | Location |
-| --- | --- | --- | --- |
-| 9am-5pm | Data Analysis: Shell and Version Control (Software Carpentry) | Alistair Walsh | CB08.03.002 Oval Classroom |
-| 12:30pm-1:30pm | Lunch |  | CB08.03.008 Catering Space |
-| 5:30 pm or 6 pm start	| Afterhours | 		|  |
- 
-### Day 3  (July 14)
- 
-| Time	| Activity | Host | Location |
-| --- | --- | --- | --- | 
-| 9am-3pm | Data Analysis: Python (Software Carpentry) | Alistair Walsh | CB08.03.002 Oval Classroom |
-| 12:30pm-1:30pm | Lunch |  | CB08.03.008 Catering Space |
-| 3:00-4ish | Data Visualisation | Kate Sweetapple | CB08.03.002 Oval Classroom |
-| 5:30 pm or 6 pm start	| Afterhours | 		|  |
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h3><a id="Day_1_July_12th_1"></a>Day 1 (July 12th)</h3>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+<th>Host</th>
+<th>Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9-9:30am</td>
+<td>Check in, hello and morning tea</td>
+<td></td>
+<td>Dr Chau Chak Wing CB08.03.008 Catering Space</td>
+</tr>
+<tr>
+<td>9:30-10:30am</td>
+<td>Keynote</td>
+<td>Simon Buckingham-Shum</td>
+<td>CB08.03.002 Oval Classroom</td>
+</tr>
+<tr>
+<td>10:45-11:40am</td>
+<td>Data Arena tours x 2</td>
+<td>Data Arena</td>
+<td>Data Arena</td>
+</tr>
+<tr>
+<td>12:30pm-1:30pm</td>
+<td>Critical thinking with Data: Asking the right questions</td>
+<td>Simon Knight</td>
+<td>CB08.03.004 Seminar room</td>
+</tr>
+<tr>
+<td>1:45pm-4:30pm</td>
+<td>Cleaning and Exploring Data with Open Refine</td>
+<td>Jared Berghold</td>
+<td>CB08.03.002 Oval Classroom</td>
+</tr>
+<tr>
+<td>4:45pm–5:00pm</td>
+<td>LRS tours</td>
+<td></td>
+<td>LRS</td>
+</tr>
+<tr>
+<td>5:30pm or 6pm start</td>
+<td>Afterhours</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3><a id="Day_2_July_13_13"></a>Day 2 (July 13)</h3>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+<th>Host</th>
+<th>Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9am-5pm</td>
+<td>Data Analysis: Shell and Version Control (Software Carpentry)</td>
+<td>Alistair Walsh</td>
+<td>CB08.03.002 Oval Classroom</td>
+</tr>
+<tr>
+<td>12:30pm-1:30pm</td>
+<td>Lunch</td>
+<td></td>
+<td>CB08.03.008 Catering Space</td>
+</tr>
+<tr>
+<td>5:30 pm or 6 pm start</td>
+<td>Afterhours</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3><a id="Day_3__July_14_21"></a>Day 3  (July 14)</h3>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+<th>Host</th>
+<th>Location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9am-3pm</td>
+<td>Data Analysis: Python (Software Carpentry)</td>
+<td>Alistair Walsh</td>
+<td>CB08.03.002 Oval Classroom</td>
+</tr>
+<tr>
+<td>12:30pm-1:30pm</td>
+<td>Lunch</td>
+<td></td>
+<td>CB08.03.008 Catering Space</td>
+</tr>
+<tr>
+<td>3:00-4ish</td>
+<td>Data Visualisation</td>
+<td>Kate Sweetapple</td>
+<td>CB08.03.002 Oval Classroom</td>
+</tr>
+<tr>
+<td>5:30 pm or 6 pm start</td>
+<td>Afterhours</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</body></html>
