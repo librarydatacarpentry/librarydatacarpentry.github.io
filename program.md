@@ -29,7 +29,7 @@ th, td {
 <body>
 
 <h3><a id="Day_1_July_12th_1"></a>Day 1 (July 12th)</h3>
-<table class=day1">
+<table class=day1>
 <thead>
 <tr>
 <th>Time</th>
