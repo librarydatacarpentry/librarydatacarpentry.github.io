@@ -23,8 +23,7 @@ table, th, td {
 th, td {
     padding: 10px;
 }
-tr:nth-child(even) {background: #CCC}
-tr:nth-child(odd) {background: #FFF}
+
 </style>
 </head>
 <body>
