@@ -13,8 +13,6 @@ The program is subject to change, but is anticipated to be composed of the follo
 
 # Schedule
 
-### Day 1 (July 12th) 
-
 <html>
 <head>
 <style>
@@ -25,12 +23,14 @@ table, th, td {
 th, td {
     padding: 10px;
 }
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
 </style>
 </head>
 <body>
 
 <h3><a id="Day_1_July_12th_1"></a>Day 1 (July 12th)</h3>
-<table class="table table-striped table-bordered">
+<table class=day1">
 <thead>
 <tr>
 <th>Time</th>
@@ -85,7 +85,7 @@ th, td {
 </tbody>
 </table>
 <h3><a id="Day_2_July_13_13"></a>Day 2 (July 13)</h3>
-<table class="table table-striped table-bordered">
+<table class=day2>
 <thead>
 <tr>
 <th>Time</th>
@@ -116,7 +116,7 @@ th, td {
 </tbody>
 </table>
 <h3><a id="Day_3__July_14_21"></a>Day 3  (July 14)</h3>
-<table class="table table-striped table-bordered">
+<table class=day3>
 <thead>
 <tr>
 <th>Time</th>
