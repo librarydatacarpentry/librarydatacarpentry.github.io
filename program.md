@@ -29,7 +29,7 @@ th, td {
 <body>
 
 <h3><a id="Day_1_July_12th_1"></a>Day 1 (July 12th)</h3>
-<table class=day1>
+<table class="day1">
 <thead>
 <tr>
 <th>Time</th>
@@ -84,7 +84,7 @@ th, td {
 </tbody>
 </table>
 <h3><a id="Day_2_July_13_13"></a>Day 2 (July 13)</h3>
-<table class=day2>
+<table class="day2">
 <thead>
 <tr>
 <th>Time</th>
@@ -115,7 +115,7 @@ th, td {
 </tbody>
 </table>
 <h3><a id="Day_3__July_14_21"></a>Day 3  (July 14)</h3>
-<table class=day3>
+<table class="day3">
 <thead>
 <tr>
 <th>Time</th>
