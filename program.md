@@ -58,6 +58,12 @@ th, td {
 <td>Data Arena</td>
 </tr>
 <tr>
+<td>12:00pm-12:30pm</td>
+<td>Lunch</td>
+<td></td>
+<td>CB08.03.008 Catering Space</td>
+</tr>
+<tr>
 <td>12:30pm-1:30pm</td>
 <td>Critical thinking with Data: Asking the right questions</td>
 <td>Simon Knight</td>
@@ -70,16 +76,16 @@ th, td {
 <td>CB08.03.002 Oval Classroom</td>
 </tr>
 <tr>
-<td>4:45pm–5:00pm</td>
+<td>4:45pm–5:15pm</td>
 <td>LRS tours</td>
 <td></td>
 <td>LRS</td>
 </tr>
 <tr>
-<td>5:30pm or 6pm start</td>
+<td>From 5:30pm</td>
 <td>Afterhours</td>
 <td></td>
-<td></td>
+<td>CB.08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
@@ -107,10 +113,10 @@ th, td {
 <td>CB08.03.008 Catering Space</td>
 </tr>
 <tr>
-<td>5:30 pm or 6 pm start</td>
+<td>From 5pm</td>
 <td>Afterhours</td>
 <td></td>
-<td></td>
+<td>CB.08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
@@ -144,10 +150,10 @@ th, td {
 <td>CB08.03.002 Oval Classroom</td>
 </tr>
 <tr>
-<td>5:30 pm or 6 pm start</td>
+<td>From 5pm</td>
 <td>Afterhours</td>
 <td></td>
-<td></td>
+<td>CB.08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
