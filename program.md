@@ -85,7 +85,7 @@ th, td {
 <td>From 5:30pm</td>
 <td>Afterhours</td>
 <td></td>
-<td>CB.08.01 Cafe 80</td>
+<td>CB08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +116,7 @@ th, td {
 <td>From 5pm</td>
 <td>Afterhours</td>
 <td></td>
-<td>CB.08.01 Cafe 80</td>
+<td>CB08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
@@ -153,7 +153,7 @@ th, td {
 <td>From 5pm</td>
 <td>Afterhours</td>
 <td></td>
-<td>CB.08.01 Cafe 80</td>
+<td>CB08.01 Cafe 80</td>
 </tr>
 </tbody>
 </table>
