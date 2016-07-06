@@ -16,3 +16,11 @@ permalink: /gettingstarted/
 * Participate in the Australian National Data Service [23 (research data) Things](http://ands.org.au/partners-and-communities/23-research-data-things)
 * Verify that you have a working [EDUROAM](https://www.eduroam.org/) profile on your devices. Guest wifi connections will be available as an alternative should you have any trouble.
 
+# Where to tweet
+
+[![alt text][1]][2] #LibDC
+[![alt text][1]][3] #datalibs
+
+[1]: https://raw.githubusercontent.com/librarydatacarpentry/librarydatacarpentry.github.io/master/speakers/images/1462785121_social-twitter-circle.png
+[2]: https://twitter.com/#LibDC
+[3]: https://twitter.com/#datalibs
