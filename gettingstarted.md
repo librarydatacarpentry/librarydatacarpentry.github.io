@@ -7,7 +7,7 @@ permalink: /gettingstarted/
 # What to bring
 
 * A laptop.  If you plan to use a laptop supplied by your institution, please ensure you have the right to install software.
-  * Have installed: [Open Refine](http://openrefine.org/) + [Anaconda package manager](https://docs.continuum.io/anaconda/install). Windows users should also [follow these instructions](https://alistairwalsh.github.io/2016-07-20-UTS_Library_Data_Carpentry/install.html) to setup git Source Control manager
+  * Have installed: [Open Refine](http://openrefine.org/) + [Anaconda package manager](https://docs.continuum.io/anaconda/install). Windows users should also [follow these instructions](https://alistairwalsh.github.io/2016-07-20-UTS_Library_Data_Carpentry/install.html) to setup git Source Control Manager
   * Have registerd: A [Google Account](https://accounts.google.com/signup)
   
 
