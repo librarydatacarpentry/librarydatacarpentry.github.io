@@ -12,7 +12,11 @@ permalink: /speakers/
 eReseach Analyst, Intersect 
 
 [![alt text][1]][3] [Alistair Walsh](https://au.linkedin.com/in/alistair-walsh-7317424b) 
-Research Community Coordinator: Research Platforms Training Services University of Melbourne
+Research Community Coordinator: Research Platforms Training Services University of Melbourne. 
+
+Alistair Walsh is a Cognitive Neuroscientist and brain computer interfaces (BCI) expert. Alistair started working with computers as a professional musician in the 1990's (when electronic dance music was good) and later returned to study at Swinburne University to do something more socially conscious with his signal processing ability. An internship with the Defence Science Technology Organisation in Adelaide started collaborations with the Australian Defence Force, researching cognitive load, fatigue and open source hardware and software. As well as teaching Software Carpentry Workshops, Alistair tutors in Neuro-imaging at Swinburne University, Machine Learning and Data Science at Monash University and Digital Humanities at The University of Melbourne. In his spare time he is working on a PhD in the area of stroke rehabilitation at The Florey Institute and is currently in discussion with IBM Research about things covered by a very strongly worded non-disclosure agreement....
+
+
 
 ![alt text](https://raw.githubusercontent.com/librarydatacarpentry/librarydatacarpentry.github.io/master/speakers/images/1462783294_circle.png)  [Kate Sweetapple](http://cargocollective.com/katesweetapple) 
 [Associate Head of Design & Senior Lecturer in Visual Communication](http://www.uts.edu.au/staff/kate.sweetapple), UTS
