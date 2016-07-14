@@ -13,5 +13,5 @@ An [introduction to Python for non-programmers using gapminder data](https://swc
 
 ## Feedback
 
-[Day 1 collated but unprocessed feedback](librarydatacarpentry.github.io/LibDC_day_1_evaluation_unprocessed.odt) 
-[Day 2 collated but unprocessed feedback](librarydatacarpentry.github.io/LibDC_day_2_evaluation_unprocessed.odt)
+1. [Day 1 collated but unprocessed feedback](librarydatacarpentry.github.io/LibDC_day_1_evaluation_unprocessed.odt) 
+1. [Day 2 collated but unprocessed feedback](librarydatacarpentry.github.io/LibDC_day_2_evaluation_unprocessed.odt)
