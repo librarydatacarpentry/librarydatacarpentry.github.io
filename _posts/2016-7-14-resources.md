@@ -9,4 +9,4 @@ Simon Buckingham-Shum's presentation [Who are you and what makes you special?](h
 
 [Intersect's](http://www.intersect.org.au/) [Cleaning & Exploring your data with Open Refine](http://www.intersect.org.au/course-resources) (sroll down), led by Jared Berghold .
 
-An [introduction to Python for non-programmers using gapminder data](https://swcarpentry.github.io/python-novice-gapminder/). See other lessons, and details about how to run your own at [Software-Carpentry](http://software-carpentry.org/). 
+An [introduction to Python for non-programmers using gapminder data](https://swcarpentry.github.io/python-novice-gapminder/) led by Alistair Walsh. See other lessons, and details about how to run your own at [Software-Carpentry](http://software-carpentry.org/). 
