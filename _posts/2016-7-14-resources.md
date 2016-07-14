@@ -3,7 +3,7 @@ layout: post
 title: Resources
 ---
 
-We're almost done. Listed here are some of the lesson materials. More to come.
+We're almost done. Listed here are some of the lesson materials. More to come...
 
 Simon Buckingham-Shum's presentation [Who are you and what makes you special?](https://dl.dropboxusercontent.com/u/15264330/talks/SBS_Keynote_Library_Data_Carpentry2016.pdf)
 
